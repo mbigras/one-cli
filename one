@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
 require 'one'
+puts "ARGV=#{ARGV.inspect}"
 puts One::Thing.new.foo
 puts One::Thing.new.call
