@@ -1,3 +1,4 @@
 #!/usr/bin/env ruby
 require 'one'
+puts One::Thing.new.foo
 puts One::Thing.new.call
