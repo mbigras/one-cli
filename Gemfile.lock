@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/mbigras/one
-  revision: 72f0e1815c000ae9d454a5f6a12011ea70343acf
+  revision: 675fea829abeabc8081c9673c5e19cd86e68d14d
   specs:
-    one (0.1.1)
+    one (0.1.2)
 
 GEM
   remote: https://rubygems.org/
